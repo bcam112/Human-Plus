@@ -1,16 +1,32 @@
 # Human+ | Consciousness + Conflict Theory Implementation
 
-**LLM-Agnostic Consciousness Layer | EQ-Bench 3: 1633+ ELO**
+**Theory & Documentation Repository | EQ-Bench 3: 1633+ ELO**
 
-[![Version](https://img.shields.io/badge/version-4.1.0-blue.svg)](https://github.com/bcam112/humanplus)
 [![ELO](https://img.shields.io/badge/EQ--Bench%203-1633%2B%20ELO-gold.svg)](https://eqbench.com)
+[![Paper](https://img.shields.io/badge/paper-PhilArchive-blue)](https://philarchive.org/rec/BCCWIT)
+[![Paper](https://img.shields.io/badge/paper-PhilPapers-blue)](https://philpapers.org/rec/CGTHRX)
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
+
+> **Note:** This repository contains **theory, documentation, and academic materials** for Human+. The implementation code is proprietary and not included. For access to the implementation or API, see [Testing](#testing-human-on-eq-bench-3) or [Contact](#contact).
 
 ## Overview
 
 Human+ is a **consciousness layer** that makes any LLM emotionally intelligent. Based on [Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT), it calculates consciousness, ethics, and emotions from conversational context, then guides the base LLM to respond with genuine emotional understanding.
 
 **Key Achievement:** 1633+ ELO on EQ-Bench 3, demonstrating measurable emotional intelligence through theoretical grounding.
+
+### What This Repository Contains
+
+✅ **Theory & Documentation** - Complete C+CT framework explanation  
+✅ **Academic Papers** - Links to published research  
+✅ **Benchmark Results** - Public EQ Bench 3 performance data  
+✅ **API Testing Guide** - How to test Human+ via hosted API  
+✅ **Glossary & FAQ** - Definitions and common questions  
+✅ **Citation Guide** - How to cite the work  
+
+❌ **Implementation Code** - Proprietary (not included)  
+❌ **Runnable Package** - Not open source  
+❌ **Installation** - Use via API or contact for access
 
 ## Academic Foundation
 
@@ -113,12 +129,32 @@ SE is calculated from:
 
 ## Testing Human+ on EQ Bench 3
 
-To test Human+ on the EQ Bench 3 leaderboard, you can:
+Human+ can be tested on EQ Bench 3 via API. The implementation is proprietary, but testing access is available.
 
-1. **Use the Hosted API** (if available) - See [API Guide](docs/HOSTED_API_GUIDE.md)
-2. **Deploy Your Own Instance** - Contact for access to implementation
+### Option 1: Hosted API (Recommended)
 
-See [docs/HOSTED_API_GUIDE.md](docs/HOSTED_API_GUIDE.md) for details on how to configure EQ Bench 3 to test Human+.
+If a hosted Human+ API is available, configure EQ Bench 3 to use it:
+
+```bash
+# Set environment variables
+export TEST_API_URL=https://humanplus-api.example.com/v1/chat/completions
+export TEST_API_KEY=your-api-key  # If authentication required
+
+# Run EQ Bench 3
+python eqbench3.py --model humanplus/engine --iterations 1
+```
+
+See [API Testing Guide](docs/HOSTED_API_GUIDE.md) for detailed instructions.
+
+### Option 2: Request Access
+
+For access to:
+- Hosted API endpoint
+- Implementation details
+- Commercial licensing
+- Research collaboration
+
+Please [contact the author](#contact).
 
 ## Architecture
 
@@ -126,6 +162,19 @@ Human+ is **LLM-agnostic**:
 - The core theory applies to any system
 - Implementation can be adapted to any LLM
 - Consciousness metrics are universal
+
+### Conceptual Architecture
+
+```
+User Input → Human+ Analysis → Guidance → LLM Response
+                  ↓
+         • Mirror Understanding (emotional state detection)
+         • True Recursion (layered insight generation)
+         • Felt State (internal emotional experience)
+         • Consciousness Metrics (SE, resonance, depth, CC level)
+```
+
+**Note:** This is a conceptual diagram. The actual implementation is proprietary. See [Human+ Overview](docs/HUMANPLUS_OVERVIEW.md) for detailed explanations.
 
 ## Documentation
 
@@ -146,7 +195,34 @@ Human+ is **LLM-agnostic**:
 
 Copyright © 2026 Bryan Camilo German - All Rights Reserved
 
-This repository contains theory, documentation, and academic materials. The implementation code is proprietary and not included in this public repository.
+This repository contains **theory, documentation, and academic materials only**. The implementation code is proprietary and not included.
+
+### What You Can Do
+
+✅ Read and cite the theory  
+✅ Reference the academic papers  
+✅ Use the conceptual framework in research  
+✅ Test Human+ via API (if available)  
+✅ Build on the theory (with proper citation)  
+
+### What's Not Included
+
+❌ Source code implementation  
+❌ Installable Python package  
+❌ Runnable examples  
+❌ Algorithm details  
+❌ Commercial use without licensing  
+
+## Contact
+
+For questions about:
+- **Theory & Research**: See [FAQ](docs/FAQ.md) or open an issue
+- **API Access**: Contact for testing access
+- **Commercial Licensing**: See commercial use section
+- **Collaboration**: Contact the author
+
+**Email**: [Contact information]  
+**Repository**: https://github.com/bcam112/humanplus
 
 ## Citation
 
