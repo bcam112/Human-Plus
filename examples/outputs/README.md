@@ -156,14 +156,19 @@ If you use these results in your research:
 ```bibtex
 @misc{humanplus2026eqbench,
   title={Human+ EQ-Bench 3 Results: 1633 ELO Validation},
-  author={German, Bryan Camilo},
+  author={Camilo German, Bryan},
   year={2026},
   url={https://github.com/bcam112/humanplus/tree/main/examples/outputs}
 }
 ```
 
+**Related Papers:**
+- [Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT) - Theoretical framework
+- [The Human+ Recursion Engine: Empirical Validation](https://philarchive.org/rec/CGTHRX) - Implementation and validation
+
 ## Questions?
 
 - 📧 Email: bcam112@yahoo.com
-- 📄 Full Paper: https://philarchive.org/rec/BCCWIT
+- 📄 C+CT Theory Paper: https://philarchive.org/rec/BCCWIT
+- 📄 Human+ Paper: https://philarchive.org/rec/CGTHRX
 - 💬 Repository: https://github.com/bcam112/humanplus
