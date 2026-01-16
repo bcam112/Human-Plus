@@ -95,7 +95,7 @@ Human+ is designed to work with any LLM:
 
 Human+ is built on:
 1. **[Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT)** - Theoretical framework
-2. **[Human+ Paper](https://philpapers.org/rec/CGTHRX)** - Implementation and evaluation
+2. **[The Human+ Recursion Engine](https://philarchive.org/rec/CGTHRX)** - Implementation and evaluation
 
 ## Testing
 

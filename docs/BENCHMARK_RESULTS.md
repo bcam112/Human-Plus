@@ -49,7 +49,7 @@ Human+ is tested as a complete system (`humanplus/engine`) on EQ Bench 3, which 
 
 - **EQ Bench 3**: https://eqbench.com
 - **C+CT Paper**: https://philarchive.org/rec/BCCWIT
-- **Human+ Paper**: https://philpapers.org/rec/CGTHRX
+- **Human+ Paper**: https://philarchive.org/rec/CGTHRX
 
 ## Notes
 

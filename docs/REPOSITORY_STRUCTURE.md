@@ -14,7 +14,7 @@ This repository contains public documentation, theory, and academic materials fo
 ### Academic References
 - Links to published papers:
   - [Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT)
-  - [Human+ Paper](https://philpapers.org/rec/CGTHRX)
+  - [The Human+ Recursion Engine](https://philarchive.org/rec/CGTHRX)
 
 ### Configuration Files
 - `.gitignore` - Ensures proprietary code is not committed

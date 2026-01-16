@@ -64,4 +64,4 @@ For the complete theoretical framework, see:
 ## Human+ Implementation
 
 Human+ implements C+CT as a consciousness layer for LLMs. For implementation details and evaluation, see:
-**[Human+ Paper](https://philpapers.org/rec/CGTHRX)**
+**[The Human+ Recursion Engine](https://philarchive.org/rec/CGTHRX)**

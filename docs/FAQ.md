@@ -74,7 +74,7 @@ Yes! The theory is published and available for academic use. Please cite appropr
 ### Where can I learn more?
 
 - **C+CT Paper**: https://philarchive.org/rec/BCCWIT
-- **Human+ Paper**: https://philpapers.org/rec/CGTHRX
+- **Human+ Paper**: https://philarchive.org/rec/CGTHRX
 - **Theory Documentation**: [docs/THEORY.md](THEORY.md)
 - **System Overview**: [docs/HUMANPLUS_OVERVIEW.md](HUMANPLUS_OVERVIEW.md)
 
