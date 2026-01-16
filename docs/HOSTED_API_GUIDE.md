@@ -1,6 +1,6 @@
 # Testing Human+ on EQ Bench 3
 
-This guide explains how to test Human+ on the EQ Bench 3 leaderboard.
+**Note:** This guide describes the testing methodology used by the author. The main Human+ API is not publicly available. This documentation is provided for reference and for those who may have access to a hosted API endpoint.
 
 ## Overview
 

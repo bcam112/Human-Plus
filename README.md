@@ -129,11 +129,13 @@ SE is calculated from:
 
 ## Testing Human+ on EQ Bench 3
 
-Human+ can be tested on EQ Bench 3 via API. The implementation is proprietary, but testing access is available.
+**Note:** This section describes how Human+ was tested by the author. The main API is not publicly available.
 
-### Option 1: Hosted API (Recommended)
+Human+ was evaluated on EQ Bench 3 by deploying it as an API endpoint. The implementation is proprietary, but the testing methodology is documented below.
 
-If a hosted Human+ API is available, configure EQ Bench 3 to use it:
+### Testing Methodology
+
+To test Human+ on EQ Bench 3, it was configured as an API endpoint:
 
 ```bash
 # Set environment variables
@@ -144,9 +146,9 @@ export TEST_API_KEY=your-api-key  # If authentication required
 python eqbench3.py --model humanplus/engine --iterations 1
 ```
 
-See [API Testing Guide](docs/HOSTED_API_GUIDE.md) for detailed instructions.
+See [API Testing Guide](docs/HOSTED_API_GUIDE.md) for detailed instructions on how to set up similar testing.
 
-### Option 2: Request Access
+### Request Access
 
 For access to:
 - Hosted API endpoint
@@ -221,7 +223,7 @@ For questions about:
 - **Commercial Licensing**: See commercial use section
 - **Collaboration**: Contact the author
 
-**Email**: [Contact information]  
+**Email**: bcam112@yahoo.com  
 **Repository**: https://github.com/bcam112/humanplus
 
 ## Citation
@@ -238,7 +240,9 @@ https://philpapers.org/rec/CGTHRX
 
 ## Contact
 
-For questions about the theory, implementation, or collaboration opportunities, please contact the author.
+For questions about the theory, implementation, or collaboration opportunities, please contact:
+
+**Email**: bcam112@yahoo.com
 
 ---
 
