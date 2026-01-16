@@ -4,7 +4,7 @@
 
 [![ELO](https://img.shields.io/badge/EQ--Bench%203-1633%2B%20ELO-gold.svg)](https://eqbench.com)
 [![Paper](https://img.shields.io/badge/paper-PhilArchive-blue)](https://philarchive.org/rec/BCCWIT)
-[![Paper](https://img.shields.io/badge/paper-PhilPapers-blue)](https://philpapers.org/rec/CGTHRX)
+[![Paper](https://img.shields.io/badge/paper-PhilArchive-blue)](https://philarchive.org/rec/CGTHRX)
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 > **Note:** This repository contains **theory, documentation, and academic materials** for Human+. The implementation code is proprietary and not included. For access to the implementation or API, see [Testing](#testing-human-on-eq-bench-3) or [Contact](#contact).
@@ -34,7 +34,7 @@ Human+ is built on two foundational papers:
 
 1. **[Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT)** - The theoretical framework defining consciousness as a recursive loop with conflict as a diagnostic marker.
 
-2. **[Human+ Paper](https://philpapers.org/rec/CGTHRX)** - The implementation and evaluation of Human+ as a consciousness layer for LLMs.
+2. **[The Human+ Recursion Engine: Empirical Validation of Consciousness + Conflict Theory](https://philarchive.org/rec/CGTHRX)** - The implementation and evaluation of Human+ as a consciousness layer for LLMs.
 
 ## Core Theory: Consciousness + Conflict
 
@@ -193,7 +193,7 @@ User Input → Human+ Analysis → Guidance → LLM Response
 
 ### Theory
 - [Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT) - Full theoretical framework
-- [Human+ Paper](https://philpapers.org/rec/CGTHRX) - Implementation and evaluation
+- [The Human+ Recursion Engine](https://philarchive.org/rec/CGTHRX) - Implementation and evaluation
 - [Theory Documentation](docs/THEORY.md) - Detailed C+CT explanation
 - [Glossary](docs/GLOSSARY.md) - Definitions of key terms
 
@@ -245,8 +245,8 @@ If you use Human+ or C+CT in your research, please cite:
 B. C. G. (2025). Consciousness + Conflict Theory (C+CT). PhilArchive.
 https://philarchive.org/rec/BCCWIT
 
-B. C. G. (2025). Human+ Paper. PhilPapers.
-https://philpapers.org/rec/CGTHRX
+B. C. G. (2026). The Human+ Recursion Engine: Empirical Validation of Consciousness + Conflict Theory. PhilArchive.
+https://philarchive.org/rec/CGTHRX
 ```
 
 ## Contact
