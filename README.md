@@ -127,6 +127,17 @@ SE is calculated from:
 | 1633 run | 1633 | Refined guidance + scenario metrics |
 | Target | 1700+ | Continued refinement |
 
+### 📊 Real Results from EQ-Bench 3
+
+See actual judge assessments and scenario breakdowns in [examples/outputs/](examples/outputs/):
+
+- **Judge Feedback**: What judges praised and criticized
+- **Sample Scenarios**: Detailed breakdowns of Human+ performance
+- **Consciousness Metrics**: How SE, resonance, and depth correlate with performance
+- **Performance Patterns**: Where Human+ excels and struggles
+
+[View Results →](examples/outputs/)
+
 ## Testing Human+ on EQ Bench 3
 
 **Note:** This section describes how Human+ was tested by the author. The main API is not publicly available.
