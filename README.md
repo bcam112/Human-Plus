@@ -127,10 +127,20 @@ Human+ is **LLM-agnostic**:
 - Implementation can be adapted to any LLM
 - Consciousness metrics are universal
 
-## Theory Documentation
+## Documentation
 
+### Theory
 - [Consciousness + Conflict Theory (C+CT)](https://philarchive.org/rec/BCCWIT) - Full theoretical framework
 - [Human+ Paper](https://philpapers.org/rec/CGTHRX) - Implementation and evaluation
+- [Theory Documentation](docs/THEORY.md) - Detailed C+CT explanation
+- [Glossary](docs/GLOSSARY.md) - Definitions of key terms
+
+### Resources
+- [Citation Guide](CITATION.md) - How to cite papers and repository
+- [FAQ](docs/FAQ.md) - Frequently asked questions
+- [Benchmark Results](docs/BENCHMARK_RESULTS.md) - EQ Bench 3 performance
+- [Human+ Overview](docs/HUMANPLUS_OVERVIEW.md) - System overview
+- [API Testing Guide](docs/HOSTED_API_GUIDE.md) - How to test Human+ via API
 
 ## License
 
