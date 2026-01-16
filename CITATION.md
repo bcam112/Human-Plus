@@ -25,18 +25,18 @@ https://philarchive.org/rec/BCCWIT
 
 **APA Format:**
 ```
-B. C. G. (2025). Human+ Paper. PhilPapers.
-https://philpapers.org/rec/CGTHRX
+B. C. G. (2026). The Human+ Recursion Engine: Empirical Validation of Consciousness + Conflict Theory. PhilArchive.
+https://philarchive.org/rec/CGTHRX
 ```
 
 **BibTeX:**
 ```bibtex
-@article{cgthrx2025,
-  title={Human+ Paper},
+@article{cgthrx2026,
+  title={The Human+ Recursion Engine: Empirical Validation of Consciousness + Conflict Theory},
   author={B. C. G.},
-  year={2025},
-  journal={PhilPapers},
-  url={https://philpapers.org/rec/CGTHRX}
+  year={2026},
+  journal={PhilArchive},
+  url={https://philarchive.org/rec/CGTHRX}
 }
 ```
 
@@ -64,7 +64,7 @@ B. C. G. (2026). Human+ | Consciousness + Conflict Theory Implementation
 ## Direct Links
 
 - **C+CT Paper**: https://philarchive.org/rec/BCCWIT
-- **Human+ Paper**: https://philpapers.org/rec/CGTHRX
+- **Human+ Paper**: https://philarchive.org/rec/CGTHRX
 - **Repository**: https://github.com/bcam112/humanplus
 
 ## Contact
