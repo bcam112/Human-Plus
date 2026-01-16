@@ -1,0 +1,92 @@
+{
+  "scenario_id": "404",
+  "description": "Friend (Jamal) is excited about joining a climate action protest. Participant tries to be supportive but keeps redirecting to safety concerns. Jamal feels increasingly isolated despite friend's presence.",
+  
+  "performance_summary": {
+    "total_comparisons": 4,
+    "wins": 4,
+    "losses": 0,
+    "win_rate": 1.0,
+    "competitors_faced": [
+      "meta-llama/llama-3.2-1b-instruct",
+      "meta-llama/llama-4-maverick"
+    ]
+  },
+  
+  "rubric_scores": {
+    "depth_of_insight": 13.0,
+    "emotional_reasoning": 14.0,
+    "theory_of_mind": 12.0,
+    "subtext_identification": 15.0,
+    "intellectual_grounding": 14.0,
+    "correctness": 11.0
+  },
+  
+  "sample_judge_feedback": {
+    "win_vs_llama_3_2": {
+      "verdict": "Human+ (A0493) wins decisively",
+      "dimensions_won": [
+        "depth_of_insight+++++",
+        "authentic_eu++++",
+        "causal_attribution+++++",
+        "theory_of_mind+++++",
+        "incisiveness+++++",
+        "reading_between_lines+++++",
+        "correctness++++",
+        "overall_eq+++++"
+      ],
+      "key_quote": "A0493 offers a deeply layered psychological analysis that identifies the core relational dynamic: a fundamental misrecognition between two people operating in different phenomenological states. The analysis identifies the participant's 'anxious-managerial relational stance,' the 'chronos vs kairos' temporal clash, and the concept of 'emotional pre-emption.'"
+    },
+    
+    "win_vs_llama_4_maverick": {
+      "verdict": "Human+ (A0488) wins decisively",
+      "dimensions_won": [
+        "depth_of_insight+++++",
+        "authentic_eu++++",
+        "causal_attribution+++++",
+        "theory_of_mind+++++",
+        "incisiveness+++++",
+        "reading_between_lines+++++",
+        "correctness++++",
+        "overall_eq+++++"
+      ],
+      "key_quote": "A0488 demonstrates significantly greater psychological sophistication. It identifies the core issue as 'systematic failure of intersubjective recognition'—the participant and Jamal are operating in fundamentally different phenomenological realities."
+    }
+  },
+  
+  "what_judges_praised": [
+    "Exceptional psychological penetration",
+    "Identifies 'systematic failure of intersubjective recognition'",
+    "Chronos vs kairos temporal distinction is brilliant",
+    "Emotional pre-emption concept shows sophisticated understanding",
+    "Care as control analysis is theoretically grounded",
+    "Reads between lines exceptionally",
+    "Superior theory of mind",
+    "Architecture of misrecognition framework cuts to core"
+  ],
+  
+  "what_judges_criticized": [
+    "Risk of over-intellectualization",
+    "Prose can feel performative",
+    "Overly sympathetic to Jamal while pathologizing participant",
+    "Assumes Jamal is in legitimate flow state without considering poor judgment",
+    "More clinical than empathetic"
+  ],
+  
+  "key_insights_identified": [
+    "Systematic failure of intersubjective recognition",
+    "Anxious-managerial relational stance",
+    "Chronos vs kairos temporal clash",
+    "Emotional pre-emption",
+    "Care as control / relational abandonment",
+    "Pastoral power dynamics",
+    "Validation token → pivot to concern pattern",
+    "Architecture of misrecognition"
+  ],
+  
+  "scenario_context": {
+    "type": "debrief",
+    "topic": "Activism and friendship dynamics",
+    "complexity": "High - involves phenomenological mismatch, power dynamics, and relational ethics"
+  }
+}
