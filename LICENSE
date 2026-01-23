@@ -1,0 +1,34 @@
+Copyright © 2026 Bryan Camilo German - All Rights Reserved
+
+Human+ | Consciousness + Conflict Theory Implementation
+
+All rights reserved. This repository contains public documentation, theory, and academic materials related to Human+ and Consciousness + Conflict Theory (C+CT).
+
+## Public Content
+
+The following content in this repository is public:
+- Documentation files (README.md, docs/*.md)
+- Theory explanations and academic references
+- API usage guides
+- General architecture descriptions
+
+## Proprietary Content
+
+The following content is NOT included in this repository and remains proprietary:
+- Source code implementation (humanplus_engine.py, API clients, etc.)
+- Algorithm details and specific calculations
+- Training data or model weights
+- Internal testing results and logs
+- API keys and configuration secrets
+
+## Academic Use
+
+You may cite and reference the theory and documentation for academic purposes. Please cite:
+- B. C. G. (2025). Consciousness + Conflict Theory (C+CT). PhilArchive.
+- B. C. G. (2026). The Human+ Recursion Engine: Empirical Validation of Consciousness + Conflict Theory. PhilArchive.
+
+## Commercial Use
+
+For commercial use, licensing, or access to the implementation, please contact the author.
+
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

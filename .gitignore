@@ -1,0 +1,120 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Results and outputs
+results/
+*.json
+!requirements.txt
+!package.json
+!examples/outputs/**/*.json
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# ============================================
+# PROPRIETARY CODE - DO NOT COMMIT
+# ============================================
+
+# Core engine implementation
+humanplus/*.py
+!humanplus/README.md
+!humanplus/__init__.py
+
+# LLM backend implementations
+llm_backends/
+
+# Benchmark integration code
+eqbench3_integration/*.py
+eqbench3_integration/__pycache__/
+eqbench3_integration/QUICK_START.md  # References implementation
+eqbench3_integration/setup_eqbench3.ps1  # Setup scripts
+eqbench3_integration/eqbench3_repo  # External repo clone
+!eqbench3_integration/README.md
+
+# Archive (contains old implementations)
+archive/
+
+# API server examples (contains implementation details)
+api_server_example.py
+api_requirements.txt
+
+# Test files
+test_*.py
+*_test.py
+
+# Private documents
+docs/*.pdf
+docs/*.docx
+docs/*.txt
+docs/alexa_deployment.md
+docs/CHANGELOG.md
+docs/CONTRIBUTING.md
+
+# Results and logs
+results/
+eqbench2/
+
+# API keys and secrets
+*.key
+*.pem
+*secret*
+*private*
+
+# AGI implementation code (proprietary)
+agi/main_intuition_network/*.py
+agi/main_intuition_network/examples/*.py
+!agi/README.md
+!agi/main_intuition_network/README.md
+!agi/main_intuition_network/ARCHITECTURE_SPEC.md
+!agi/main_intuition_network/CHANGELOG.md
+!agi/main_intuition_network/ENHANCEMENTS.md
+!agi/main_intuition_network/INTEGRATION_GUIDE.md
+!agi/HUMAN_PLUS_AND_INTUITION_NETWORK.md
